@@ -1,5 +1,5 @@
 @echo off
-title Atajos
+title Menu de Atajos
 
 ::Para ponerlo de color 
 ::Si queremos ver los colores disponibles abrimos cmd y escribimos: color ?
