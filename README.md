@@ -6,4 +6,5 @@ Podes ver el video:
 <br>
 <a href="https://youtu.be/r2V4FrxXyyI?si=o5yTWpEDOxmY4VHD">
     <img aling="center" src="https://github.com/Shinigamy19/Menu-de-atajos-tutorial/blob/main/Tuto%20Batch.png">
+    <span>*Toca la imagen para ver el video o mismo este texto*</span>
 </a>
