@@ -1,2 +1,6 @@
 # Menu-de-atajos-tutorial
-Un menu de atajos en batch para tutorial en youtube.
+Un menu de atajos realizado en turorial de youtube.
+
+Podes ver el video:
+El resultado es:
+<img src="https://github.com/Shinigamy19/Menu-de-atajos-tutorial/blob/main/Menu%20Batch.png">
